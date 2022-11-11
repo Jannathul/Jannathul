@@ -13,7 +13,7 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/-light-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/-light-mode-only)
 
 ### Languages and Tools:
 
