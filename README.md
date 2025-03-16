@@ -4,7 +4,7 @@
 
 ## I'm a Fresher interested in coding...!!
 
-- 🥅 2023 Goals: Learn Data Science and BLockchain
+- 🥅 2025 Goals: Learn Data Science
 - ⚡ Fun fact: I love to draw 
 
 ### Connect with me:
