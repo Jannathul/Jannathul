@@ -1,6 +1,6 @@
 # Hi there, I'm Jannathul Firdouse 👋 
 
-[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://firdouse.netlify.app/)
+[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://jannathul.github.io/Firdouse/)
 
 ## I'm a Fresher interested in coding...!!
 
@@ -33,7 +33,7 @@
 ---
 
 
-[website]: https://firdouse.netlify.app/
+[website]: (https://jannathul.github.io/Firdouse/)
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
